@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blueviolet;
+}
+header{
+    background-color: rgb(247, 238, 238);
+    display: flex;
+    row-gap: 14px;
+}
+
+header ul{
+    display: flex;
+    
+
+footer{
+    
+    background-color:red ;
+    display: flex;direction: row;
+    justify-content: center;
+}
